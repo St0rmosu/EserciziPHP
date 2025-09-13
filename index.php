@@ -1,4 +1,4 @@
-<?PHP
+<?php
 
 //DIchairazione delle variabili si va con il dollaro
 $a = 5
