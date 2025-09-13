@@ -1,4 +1,4 @@
-<?PHP
+<?php
 
   $nome=$_post['Nomeuntente'];
   $password=$-post['Paswword'];
